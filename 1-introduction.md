@@ -11,22 +11,20 @@ Docker est une plateforme open-source qui automatise le déploiement d'applicati
     Images Docker
     Conteneurs Docker
     Dockerfile
-4. Commandes Docker détaillées
+    Volume Docker
+    Networks Docker
+    Dockerizer plusieur apps
+    Conclusion
+4. Dockerfile
 5. Réseaux Docker
 6. Volumes Docker
 7. Docker Compose approfondi
 8. Bonnes pratiques et optimisation
-9. Conclusion
+9. Commandes Docker détaillées
+10. Conclusion
 
 ## 1. Qu'est-ce que Docker ?
 
 Docker permet de créer, déployer et exécuter des applications en utilisant des conteneurs. Les conteneurs sont légers, portables et assurent la cohérence entre les environnements de développement, de test et de production.
 
-## 2. Installation de Docker
 
-Pour installer Docker, suivez les instructions spécifiques à votre système d'exploitation :
-
-### Sur Ubuntu :
-```bash
-sudo apt update
-sudo apt install docker-ce docker-ce-cli containerd.io

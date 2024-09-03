@@ -11,80 +11,87 @@ Cette documentation personnelle couvre les concepts fondamentaux de Docker. Elle
 
 1.1 **Qu'est-ce que Docker ?**
 
-1.2 **Pourquoi utiliser Docker ?**
 
 ### 2. Installation de Docker
 
-2.1 **Installation sur Windows**
+ **Installation sur Windows**
 
-2.2 **Installation sur macOS**
+ **Installation sur macOS**
 
-2.3 **Installation sur Linux**
 
 ### 3. Concepts de base de Docker
 
-3.1 **Images Docker**
+ **Images Docker**
 
-3.2 **Conteneurs Docker**
+ **Conteneurs Docker**
 
-3.3 **Dockerfile**
+ **Dockerfile**
 
-### 4. Commandes Docker détaillées
+ **Volume Docker**
 
-4.1 **Commandes de base**
+ **Networks Docker**
 
-4.2 **Commandes avancées**
+ **Dockerizer plusieur apps**
 
-4.3 **Gestion des images**
+ **Conclusion**
+
 
 ### 5. Réseaux Docker
 
-5.1 **Types de réseaux**
+ **Types de réseaux**
 
-5.2 **Commandes de réseau Docker**
+ **Commandes de réseau Docker**
 
 ### 6. Volumes Docker
 
-6.1 **Qu'est-ce qu'un volume ?**
+ **Qu'est-ce qu'un volume ?**
 
-6.2 **Commandes de volume Docker**
+ **Commandes de volume Docker**
 
 ### 7. Docker Compose approfondi
 
-7.1 **Qu'est-ce que Docker Compose ?**
+ **Qu'est-ce que Docker Compose ?**
 
-7.2 **Exemple de fichier `docker-compose.yml`**
+ **Exemple de fichier `docker-compose.yml`**
 
-7.3 **Commandes Docker Compose**
+ **Commandes Docker Compose**
 
-7.4 **Utilisation avancée de Docker Compose (variables d'environnement, volumes, réseaux)**
+ **Utilisation avancée de Docker Compose (variables d'environnement, volumes, réseaux)**
 
 ### 8. Bonnes pratiques et optimisation
 
-8.1 **Minimiser la taille des images**
+ **Minimiser la taille des images**
 
-8.2 **Multi-stage builds**
+ **Multi-stage builds**
 
-8.3 **Utilisation de `.dockerignore`**
+ **Utilisation de `.dockerignore`**
+  **Sécurité**
 
-8.4 **Sécurité**
+### 9. Commandes Docker détaillées
 
+**Commandes de base**
+
+**Commandes avancées**
+
+**Gestion des images**
+
+(a venir)
 ### 9. Exemples pratiques
 
-9.1 **Application web simple avec Nginx**
+**Application web simple avec Nginx**
 
-9.2 **Base de données PostgreSQL avec persistance des données**
+**Base de données PostgreSQL avec persistance des données**
 
 ### 10. Ressources supplémentaires
 
-10.1 **Documentation officielle de Docker**
+**Documentation officielle de Docker**
 
-10.2 **Docker Hub**
+**Docker Hub**
 
-10.3 **Communauté Docker**
+**Communauté Docker**
 
 ## Utilisation de la Documentation
-Cette documentation est disponible sur GitHub et peut être consultée à tout moment pour revoir les concepts fondamentaux de Docker et des exemples pratiques.
+Cette documentation est disponible sur GitHub et peut être consultée à tout moment pour revoir les concepts fondamentaux de Docker et des élements pratiques.
 
 ## Auteur
 **Auteur** : LuisMiLR  
