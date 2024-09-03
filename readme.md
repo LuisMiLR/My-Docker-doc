@@ -1,25 +1,38 @@
-# Documentation sur Docker
+# Documentation personnel sur Docker
+
+<br/>
 
 ![Docker Logo](images/docker_logo.png)
+
+<br/>
+<br/>
 
 ## Description
 Cette documentation personnelle couvre les concepts fondamentaux de Docker. Elle inclut des explications sur les principaux concepts de Docker, ainsi que des exemples pratiques. Ce référentiel est conçu pour aider à comprendre et à appliquer les concepts de Docker dans des projets de développement.
 
+<br/>
+
 ## Structure de la Documentation
 
-### 1. Introduction à Docker
+<br/>
 
-1.1 **Qu'est-ce que Docker ?**
+## 1. Introduction à Docker
+
+1.1- **Qu'est-ce que Docker ?**
 
 
-### 2. Installation de Docker
+
+
+## 2. Installation de Docker
 
  **Installation sur Windows**
 
  **Installation sur macOS**
 
 
-### 3. Concepts de base de Docker
+
+
+## 3. Concepts de base de Docker
 
  **Images Docker**
 
@@ -36,19 +49,25 @@ Cette documentation personnelle couvre les concepts fondamentaux de Docker. Elle
  **Conclusion**
 
 
-### 5. Réseaux Docker
+
+
+## 5. Réseaux Docker
 
  **Types de réseaux**
 
  **Commandes de réseau Docker**
 
-### 6. Volumes Docker
+
+
+## 6. Volumes Docker
 
  **Qu'est-ce qu'un volume ?**
 
  **Commandes de volume Docker**
 
-### 7. Docker Compose approfondi
+
+
+## 7. Docker Compose approfondi
 
  **Qu'est-ce que Docker Compose ?**
 
@@ -58,7 +77,9 @@ Cette documentation personnelle couvre les concepts fondamentaux de Docker. Elle
 
  **Utilisation avancée de Docker Compose (variables d'environnement, volumes, réseaux)**
 
-### 8. Bonnes pratiques et optimisation
+
+
+## 8. Bonnes pratiques et optimisation
 
  **Minimiser la taille des images**
 
@@ -82,7 +103,8 @@ Cette documentation personnelle couvre les concepts fondamentaux de Docker. Elle
 
 **Base de données PostgreSQL avec persistance des données**
 
-### 10. Ressources supplémentaires
+
+## 10. Ressources supplémentaires
 
 **Documentation officielle de Docker**
 
@@ -95,4 +117,4 @@ Cette documentation est disponible sur GitHub et peut être consultée à tout m
 
 ## Auteur
 **Auteur** : LuisMiLR  
-**Date de création** : 01.08.2024
+**Date de création** : 30.07.2024
